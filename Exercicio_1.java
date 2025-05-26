@@ -4,6 +4,7 @@
 public class Main
 {
 	public static void main(String[] args) {
+		
 		int balas = 500;
 		int comi = 305;
 		int dei = 120;
