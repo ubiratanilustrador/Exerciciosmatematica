@@ -5,10 +5,11 @@ using System;
 class HelloWorld {
   static void Main() {
       
-        int balas = 500;
-	int comi = 305;
-	int dei = 120;
-      
+        int balas = 500; //quantidade total de balas
+	int comi = 305;  //quantidade de balas que come
+	int dei = 120;   //quantidade de balas que dei para meu irmão
+
+    // exibi no console a quantidade de balas que fiquei 
     Console.WriteLine("Fique com: " + (balas-comi-dei)+ " balas.");
   }
 }
