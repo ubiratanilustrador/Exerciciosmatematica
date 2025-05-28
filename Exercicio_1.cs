@@ -6,8 +6,8 @@ class HelloWorld {
   static void Main() {
       
         int balas = 500;
-		int comi = 305;
-		int dei = 120;
+	int comi = 305;
+	int dei = 120;
       
     Console.WriteLine("Fique com: " + (balas-comi-dei)+ " balas.");
   }
