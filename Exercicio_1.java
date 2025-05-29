@@ -1,7 +1,8 @@
+package exercicios_ensino_fundamental;
 /******************************************************************************
 1) Comprei 500 balas comi 305 e dei 120 para meu irmão. Quantas eu fiquei? 
-*******************************************************************************/
-public class Main
+********************************************************************************/
+public class Exercicio_1
 {
 	public static void main(String[] args) {
 		
