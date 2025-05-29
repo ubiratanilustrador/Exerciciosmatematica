@@ -23,7 +23,7 @@ public class Exercicio_2 {
 		System.out.println("O total foi: "+ total);
 
 		//crio uma variavel que dois valores e faço a subtração 
-		double queda = 4.127-2.987;
+		double queda = 4127-2987;
 		//exibo no console a queda de produção
 		System.out.println("A queda foi de: "+ queda);
 
