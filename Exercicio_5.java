@@ -1,6 +1,6 @@
 package exercicios_ensino_fundamental;
 
-/*Em uma gincana de férias, 75 crianças se inscreveram para participar das atividades de recreação. 
+/* Em uma gincana de férias, 75 crianças se inscreveram para participar das atividades de recreação. 
  * De modo a organizarem os jogos e atividades, eles verificaram a faixa etária dos inscritos e 
  * constataram que 2/5 das crianças têm mais de doze anos. 
  * Quantos participantes tem menos que 12 anos? 
@@ -10,9 +10,9 @@ public class Exercicio_5 {
 
 	public static void main(String[] args) {
 	
-		//crio uma variavel que recebe o total de crianças
-		int total_criancas = 75;
-		//chamo a função e exibo o resultado no console
+	    //crio uma variavel que recebe o total de crianças
+	    int total_criancas = 75;
+	    //chamo a função e exibo o resultado no console
 	    System.out.print("Crianças com mais de 12 anos, são: " +  criancas_maiores(total_criancas) + " participantes \n");
 	    //crio uma variavel para receber o valor que sera usado na função
 	    int comparacao = criancas_maiores(total_criancas);  
