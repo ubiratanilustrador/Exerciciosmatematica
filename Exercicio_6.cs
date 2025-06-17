@@ -4,7 +4,6 @@
    onde 'a', 'b' e 'c' são coeficientes (com 'a' ≠ 0) e 'x' é a variável. 
    Para resolver uma equação do 2º grau, utiliza-se a fórmula de Bhaskara 
    (fórmula resolvente) para encontrar as raízes da equação. 
-
 *******************************************************************************/
 
 using System;
